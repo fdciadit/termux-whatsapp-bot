@@ -48,7 +48,7 @@ after running it you need to scan the qr
 ## Bot Whatsapp Command 
 ```
   
-◦•●◉✿ ஜ۩۞۩ஜ 𝐈𝐧𝐬𝐢𝐝𝐞 𝐁𝐨𝐭 ஜ۩۞۩ஜ  ✿◉●•◦
+◦•●◉✿ ஜ۩۞۩ஜ Crystal Mechanic ஜ۩۞۩ஜ  ✿◉●•◦
 
   
 
@@ -96,7 +96,7 @@ after running it you need to scan the qr
    🅕🅔🅐🅣🅤🅡🅔🅢 🅘🅢 
 🅒🅞🅞🅜🅘🅝🅖 🅢🅞🅞🅝
 
- _Powered By_ : 💞 *InsideHeartz*
+ _Powered By_ : 💞 *CrystalMechanic*
 
 ```
          
